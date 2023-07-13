@@ -5,21 +5,21 @@
     margin-left: auto;
     background-color: #15161A;
     color: aliceblue;
-    width: 50rem;
+    width: 40rem;
     height: auto;
     align-items: center;
-    margin-top: 10rem;
+    margin-top: 2%;
     font-size: 32px;
     justify-content: center;
     border-radius: 1rem;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 
 img {
-    width: 15rem;
-    height: 15rem;
+    width: 10rem;
+    height: 10rem;
     margin-right: auto;
     margin-left: auto;
 }
@@ -27,7 +27,7 @@ img {
 .com1 {
     display: flex;
     flex-direction: column;
-    margin-top: 6rem;
+    margin-top: 3rem;
     gap: 4rem;
 
 }
